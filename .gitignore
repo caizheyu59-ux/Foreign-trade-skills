@@ -1,0 +1,45 @@
+# OpenClaw
+.env
+.env.local
+*.log
+logs/
+tmp/
+temp/
+
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+
+# Backup
+*.bak
+*.backup
+*.old
+
+# Customer data (keep private)
+foreign-trade-customers.md
+follow-up-log.md
+*.jsonl
