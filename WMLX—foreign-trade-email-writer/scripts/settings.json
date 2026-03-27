@@ -1,0 +1,63 @@
+{
+  "smtp": {
+    "server": "smtp.gmail.com",
+    "port": 587,
+    "username": "your-email@gmail.com",
+    "password": "your-app-password",
+    "use_ssl": true,
+    "from_email": "your-email@gmail.com",
+    "from_name": "Your Name"
+  },
+  "send_settings": {
+    "random_delay_min": 60,
+    "random_delay_max": 300,
+    "dkim_path": "",
+    "spf_check": true
+  },
+  "industry_knowledge": {
+    "electronics": {
+      "pain_points": ["component shortages", "long lead times", "quality control", "inventory management"],
+      "certifications": ["ISO 9001", "CE", "RoHS", "UL"],
+      "trending_topics": ["supply chain resilience", "inventory optimization", "quality control automation"]
+    },
+    "textile": {
+      "pain_points": ["quality inconsistency", "long production cycles", "sustainability compliance", "cost control"],
+      "certifications": ["OEKO-TEX", "GOTS", "ISO 9001", "WRAP"],
+      "trending_topics": ["sustainable materials", "fast fashion challenges", "circular economy"]
+    },
+    "packaging": {
+      "pain_points": ["high costs", "environmental concerns", "supplier reliability", "design complexity"],
+      "certifications": ["FSC", "ISO 9001", "SEDEX", "ISO 14001"],
+      "trending_topics": ["eco-friendly packaging", "sustainable packaging regulations", "cost reduction"]
+    },
+    "machinery": {
+      "pain_points": ["equipment downtime", "parts availability", "maintenance costs", "technical support"],
+      "certifications": ["ISO 9001", "CE", "AS9100", "IATF 16949"],
+      "trending_topics": ["predictive maintenance", "Industry 4.0", "automation upgrades"]
+    },
+    "consumer": {
+      "pain_points": ["supplier reliability", "delivery delays", "MOQ flexibility", "quality consistency"],
+      "certifications": ["ISO 9001", "CE", "FCC", "CPSC"],
+      "trending_topics": ["flexible manufacturing", "rapid prototyping", "dropshipping integration"]
+    },
+    "general": {
+      "pain_points": ["supplier reliability", "quality control", "cost management", "lead time"],
+      "certifications": ["ISO 9001", "CE", "RoHS"],
+      "trending_topics": ["supply chain optimization", "cost reduction", "quality assurance"]
+    }
+  },
+  "blind_outreach_hooks": {
+    "en": [
+      "I'"@ + "ve been researching {country}'s {industry} market and noticed some interesting trends...",
+      "Recent regulatory changes in {country} are affecting how {industry} companies approach...",
+      "Many {industry} companies in {country} are facing challenges with...",
+      "Based on our analysis, {industry} businesses in {country} are increasingly..."
+    ],
+    "cn": [
+      "I recently researched {country}'s {industry} market and found some interesting trends...",
+      "Recent regulatory changes in {country} are affecting how {industry} companies operate...",
+      "Many {industry} companies in {country} are facing challenges with...",
+      "Based on our analysis, {industry} businesses in {country} are increasingly..."
+    ]
+  }
+}
