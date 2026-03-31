@@ -1,0 +1,455 @@
+============================================================
+Checking for Inquiry Emails
+============================================================
+Total unread: 50
+
+------------------------------------------------------------
+INQUIRY #1
+From: "" <conan@kingswayvideo.com>
+Subject: inquiry notice
+Keywords found: ['interested in', 'inquiry']
+
+Content preview (first 500 chars):
+Hello, are you interested in your company's products?
+
+
+
+
+
+
+
+Best Regards
+/Conan
+Tel:  400-158-8816
+MP: +86 13719343427
+POLYV.NET
+
+
+
+------------------------------------------------------------
+
+------------------------------------------------------------
+INQUIRY #2
+From: Sensible Medicine <sensiblemed@substack.com>
+Subject: Friday Reflection 59: Healing Rather than Treating
+Keywords found: ['quote']
+
+Content preview (first 500 chars):
+View this post on the web at https://www.sensible-med.com/p/friday-reflection-59-healing-rather
+
+
+
+TP is a 74-year-old man who presents to our Urgent Care clinic. He has just had his third episode of nausea, vomiting, and abdominal pain in the last week. The first episode led to a visit to an urgent care clinic. The second led to an eight-hour stay in an emergency room.
+
+Sensible Medicine is reader-supported. If you appreciate our work, consider becoming a free or paid subscriber.
+
+So often, a s
+------------------------------------------------------------
+
+------------------------------------------------------------
+INQUIRY #3
+From: Substack <no-reply@substack.com>
+Subject: "The Hobbies That Quietly Make You Magnetic" and 4 more
+Keywords found: ['quote', 'order']
+
+Content preview (first 500 chars):
+<html style="scrollbar-width: thin;scrollbar-color: rgb(219,219,219)rgb(255,255,255);"><head><meta charset="utf-8"><title>"The Hobbies That Quietly Make You Magnetic" and 4 more</title><style>
+
+@media (max-width: 1024px) {
+
+  .typography .pullquote-align-left,
+
+  .typography.editor .pullquote-align-left,
+
+  .typography .pullquote-align-right,
+
+  .typography.editor .pullquote-align-right,
+
+  .typography .pullquote-align-wide,
+
+  .typography.editor .pullquote-align-wide,
+
+  .typography .pullquote-
+------------------------------------------------------------
+
+------------------------------------------------------------
+INQUIRY #4
+From: "The about.me team" <aboutme@team.about.me>
+Subject: Turn your page into a conversation
+Keywords found: ['moq']
+
+Content preview (first 500 chars):
+about.me ( https://click.about.me/click?ZTJDfbtowGEfzLJayK7LZxiSAhDRs0kEDhP6h1XaDjPmcWEvMFozTMu3dp1RM7ZWtc_E7Ol-qpLmU8HoejL4WtTRVpwvEH1SjMRoxqobDZBQRpYcRUwmJ5EjHkT4QAlhiYHBAPaTQmPSHA8aSHnJoTAmL-3GS0KSHzgSNk5jgv8H2f6fcH8_ucw1fgoe3766G3YKL-TRd89Vss84X6Zx_uxFiky0yns_XfDa9zgdLT4LfH9M9NMePVdAlvAF1tA6sm3Rvc7wyWf-SprCTmwYgpHh7guYUUhyFFD-Zxp1lFVL82Bp7hWk3F1LM3u-5hvZUgXPQfOrkncdPhBbLuLjAAZbWin329HLvLL-l-iHVlQeRabUdlNTj-5V51YWXuTBldjtTzz-tz4st-_G45y87tsrYglZ5Ux9ccbkjZpPwvJ0-l33_PezPgkLu21Ld_RsA0jda6b7c2d 
+------------------------------------------------------------
+
+------------------------------------------------------------
+INQUIRY #5
+From: Artlist <team@newsletter.artlist.io>
+Subject: Artlist x SXSW: AI and the future of filmmaking
+Keywords found: ['buy', 'moq']
+
+Content preview (first 500 chars):
+Watch the panel discussion now    
+( https://clicks.artlist.io/f/a/uI1X3hjR7co2C0mPferFpw~~/AAAHahA~/gto3N1JnTsVg0d_uuAV-cUT46w3Keg5qj_e7Mr2mwf0gFIfL_lLMfAqgrRM3Wd4YkdzguCTDxPn3CYfJW97cLrTECsgHO4ArVVet17LcNGax9Q57IaNLZzIB1OXDO5RpquBlbfg2wA6B9RtsZ26mak2zLQcEtvyCO7APKbWjXo0~ )  
+( https://clicks.artlist.io/f/a/s7aUSbqB80JCSfzYqcsnjQ~~/AAAHahA~/Hu_IhvxHtdrZTx59SK3E1TC0snMpAaA74kDfSFORqtyuqCNQpxj6T06yWMdBURxsa59NuC39TMMRKeqzBDF09OBqjld2zE0lSpVAdKsBiD8IwebX8x70V-dkpXmBNqp-yxt8ExTxHGEj_-VmyF1shImCMvqq
+------------------------------------------------------------
+
+------------------------------------------------------------
+INQUIRY #6
+From: Chris Ryan <chrisryan@substack.com>
+Subject: 710 - Ryley Newport (Smart young dude on a path with heart)
+Keywords found: ['buy', 'looking for']
+
+Content preview (first 500 chars):
+View this post on the web at https://chrisryan.substack.com/p/710-ryley-newport-smart-young-dude
+
+
+
+I got an email from a guy named Nick, who suggested I might like to meet his buddy, Ryley, who happened to be in Baja. I could sense the love and respect Nick felt for his friend. And then fate placed Ryley just a few miles down the coast from where we were camped out, so it all came together pretty organically. Here are a few lines from Nicks email to me, which turned out to be very accurate:
+
+
+------------------------------------------------------------
+
+------------------------------------------------------------
+INQUIRY #7
+From: Sensible Medicine <sensiblemed@substack.com>
+Subject: When Every Scan Is Free: The Tragedy of the Diagnostic Commons
+Keywords found: ['price', 'pricing', 'order', 'purchase']
+
+Content preview (first 500 chars):
+View this post on the web at https://www.sensible-med.com/p/when-every-scan-is-free-the-tragedy
+
+
+
+Overuse in medicine is obvious to anyone who is paying attention. The overuse that irks me the most is the use of diagnostic testing in situations where it is extremely unlikely to change care. These tests are costly, expose patients to unnecessary harm, and frequently present clinicians with Decontextualized Risk Information [ https://substack.com/redirect/669be1d9-6ef5-4b9d-8aa3-2c9e60cee93a?j=ey
+------------------------------------------------------------
+
+------------------------------------------------------------
+INQUIRY #8
+From: Discogs <hello@cio.discogs.com>
+Subject: The Punk History Most People Miss
+Keywords found: ['buy']
+
+Content preview (first 500 chars):
+Also, how Monterrey musicians turned cumbia upside down. 
+
+
+
+Discogs ( https://www.discogs.com/?utm_campaign=Newsletter_031826&utm_content=NA_N&utm_medium=email_action&utm_source=mktg )
+
+
+
+Buy Music ( https://www.discogs.com/sell/mywants?utm_campaign=Newsletter_031826&utm_content=NA_N&utm_medium=email_action&utm_source=mktg )
+
+
+
+Sell Music ( https://www.discogs.com/sell/?utm_campaign=Newsletter_031826&utm_content=NA_N&utm_medium=email_action&utm_source=mktg )
+
+
+
+Explore Discography ( https://ww
+------------------------------------------------------------
+
+------------------------------------------------------------
+INQUIRY #9
+From: Instagram <notification@priority.instagram.com>
+Subject: zheyucaicai
+Keywords found: ['order']
+
+Content preview (first 500 chars):
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional //EN"><html><head><title>Facebook</title><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style nonce="9v3m9zSc">@media all and (max-width: 480px){*[class].ib_t{min-width:100%!important}*[class].ib_row{display:block!important}*[class].ib_ext{display:block!important;padding:10px 0 5px;vertical-align:top!important;width:100%!important}*[class].ib_img,*[class].ib_mid{vertical-align:top!important}*[class].mb_blk{display:b
+------------------------------------------------------------
+
+------------------------------------------------------------
+INQUIRY #10
+From: Indie Hackers <channing@indiehackers.com>
+Subject:  What's New: Acquiring > building, avoid competition in hot markets, knowing versus doing
+Keywords found: ['buy']
+
+Content preview (first 500 chars):
+View in browser (
+
+https://www.indiehackers.com/post/whats-new-this-side-project-hit-1-7m-users-in-4-days-2abbb0e4d4
+
+)
+
+
+
+-->
+
+
+
+(
+
+https://e9527aec.click.convertkit-mail4.com/0vuogwev6gh9h9eqz8zblhv8xkd4kfnhn366/8ghqhohodp2npwuk/aHR0cHM6Ly93d3cuaW5kaWVoYWNrZXJzLmNvbT91dG1fY2FtcGFpZ249aWgtbmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9zb3VyY2U9aW5kaWUtaGFja2Vycy1lbWFpbHM=
+
+)
+
+
+
+PRESENTED BY
+
+
+
+(
+
+https://e9527aec.click.convertkit-mail4.com/0vuogwev6gh9h9eqz8zblhv8xkd4kfnhn366/vqh3hrho03vr3lig/aHR0c
+------------------------------------------------------------
+
+------------------------------------------------------------
+INQUIRY #11
+From: Elementor <team@system-mail.elementor.com>
+Subject: [Elementor] Please Confirm Your Email Address
+Keywords found: ['order']
+
+Content preview (first 500 chars):
+Verify now
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Elementor] Please Confirm Your
+Email
+Address                 96      /*
+Force outlook to fallback on Arial instead of Times Roman and
+removes extra spaces */ table { border-collapse:collapse
+!important; mso-table-lspace:0 !important; mso-table-rspace:0
+!important; margin:0 auto; }
+h1,h2,h3,h4,h5,h6,p,a,span,td,th,strong,div,img {
+font-family:Arial,Helvetica,Arial,sans-serif !important; }
+                    
+------------------------------------------------------------
+
+------------------------------------------------------------
+INQUIRY #12
+From: Michael Easter <michaeleaster@substack.com>
+Subject: The Most Comprehensive Analysis of Strength Training Ever Assembled
+Keywords found: ['price', 'pricing']
+
+Content preview (first 500 chars):
+View this post on the web at https://www.twopct.com/p/the-most-comprehensive-analysis-of
+
+
+
+For the first time ever, the price of a Two Percent Membership is going up by $1 [ https://substack.com/redirect/d4a667c5-ac32-449b-b075-639bb7f94cf7?j=eyJ1IjoiNmloaHd6In0.Aj0vVu7RoxpAnf0CzRyYNxJVZqItiF8lFFvSqci_-rk ]. Existing Members are NOT affected. Not a Member yet? Lock in our legacy pricing, forever, here. [ https://substack.com/redirect/f34ab1a1-93ac-41c7-ac0b-460a7dc173ef?j=eyJ1IjoiNmloaHd6In0.Aj
+------------------------------------------------------------
+
+------------------------------------------------------------
+INQUIRY #13
+From: Dribbble <no-reply@n.dribbble.com>
+Subject: Protein branding, but make it quiet
+Keywords found: ['interested in', 'moq']
+
+Content preview (first 500 chars):
+Plus: redundancy reframed and the truth behind calm tech.                                                                                                                                                                     
+
+
+
+
+
+
+
+unsubscribe ( https://email.n.dribbble.com/c/eJysUs2OmzAYfBpziTayP_9y4LANQuql6htE_vlI3AVDjUm1ffqKbNKy9
+------------------------------------------------------------
+
+------------------------------------------------------------
+INQUIRY #14
+From: Ivan Hug <ivanhug@substack.com>
+Subject: You Earned $2,000,000 in 10 Years. You Have $50,000. This Is Why.
+Keywords found: ['price', 'buy']
+
+Content preview (first 500 chars):
+View this post on the web at https://ivanhug.substack.com/p/you-earned-2000000-in-10-years-you
+
+
+
+Isaac Newton  the man who invented calculus, explained gravity, and mapped the motion of planets  lost a fortune in the South Sea Bubble of 1720.
+
+He sold at the right time. Watched prices climb higher. Bought back in near the top. Lost it all.
+
+He said afterward: I can calculate the motion of heavenly bodies, but not the madness of people.
+
+Here is what nobody tells you about that story. Newton
+------------------------------------------------------------
+
+------------------------------------------------------------
+INQUIRY #15
+From: Elephant Journal <marketing@e.elephantjournal.com>
+Subject: Yoga Gear that Cosplays as Home Decor? We're in Love.
+Keywords found: ['order']
+
+Content preview (first 500 chars):
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html dir="ltr" lang="en">
+
+<head><meta charset="UTF-8"><meta content="width=device-width, initial-scale=1" name="viewport"><meta name="x-apple-disable-message-reformatting"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta content="telephone=no" name="format-detection">
+
+	<title>Yoloha Dedicated</title>
+
+	<!--[if (mso 16)]><style type="text/css">     a {text-decora
+------------------------------------------------------------
+
+------------------------------------------------------------
+INQUIRY #16
+From: Michael Easter <michaeleaster@substack.com>
+Subject: Two Percent is going up one dollar. Lock in the old price before May 1st.
+Keywords found: ['price', 'pricing', 'order']
+
+Content preview (first 500 chars):
+For the first time ever, the price of a Two Percent Membership is going up by $1. Lock-in our legacy pricing, forever, here. [ https://substack.com/redirect/77e86d80-e9fb-46b6-ae17-650cc89982b6?j=eyJ1IjoiNmloaHd6In0.Aj0vVu7RoxpAnf0CzRyYNxJVZqItiF8lFFvSqci_-rk ]
+
+Ive never raised the price of this newsletter. 
+
+Since launching in May of 2023, Two Percent has cost $6.87 a month or $68.70 a year. Which raises an obvious question: Why $6.87? What kind of weird price is that?
+
+I blame caffeine.
+
+Whe
+------------------------------------------------------------
+
+------------------------------------------------------------
+INQUIRY #17
+From: Sensible Medicine <sensiblemed@substack.com>
+Subject: What Makes a Good Journal?
+Keywords found: ['quote']
+
+Content preview (first 500 chars):
+View this post on the web at https://www.sensible-med.com/p/what-makes-a-good-journal
+
+
+
+Ive been a bit obsessed with what to do about the quality of journals today. Ive written about how we can fix them [ https://substack.com/redirect/819e4d3e-d08a-4efe-b07a-c7099eeaa943?j=eyJ1IjoiNmloaHd6In0.Aj0vVu7RoxpAnf0CzRyYNxJVZqItiF8lFFvSqci_-rk ] and how we can figure out which ones should be shuttered [ https://substack.com/redirect/db614c2a-ad35-4df0-8768-6c5790643010?j=eyJ1IjoiNmloaHd6In0.Aj0vVu7Ro
+------------------------------------------------------------
+
+------------------------------------------------------------
+INQUIRY #18
+From: "OpenAI (via incident.io)" <no-reply@status.incident.io>
+Subject: Elevated errors for sign-in and account creation
+Keywords found: ['rfq']
+
+Content preview (first 500 chars):
+----------------
+
+Incident updated
+
+----------------
+
+
+
+************************************************
+
+Elevated errors for sign-in and account creation
+
+************************************************
+
+
+
+Resolved Started March 17, 2026 3:06 AM UTC
+
+
+
+All impacted services have now fully recovered.
+
+
+
+Affected Components:
+
+--------------------
+
+
+
+ChatGPT Login Operational
+
+View incident ( https://u24706548.ct.sendgrid.net/ls/click?upn=u001.xYmoMNJiMWxgKfVNXP547EwvJud4Qlcs00wP2X-2BCp8JO9poqNZ2
+------------------------------------------------------------
+
+------------------------------------------------------------
+INQUIRY #19
+From: Indie Hackers <channing@indiehackers.com>
+Subject:  What's New: $25k MRR by lowering goals, demo sells itself, roadmaps became to-do lists
+Keywords found: ['price', 'buy', 'looking for']
+
+Content preview (first 500 chars):
+View in browser (
+
+https://www.indiehackers.com/post/whats-new-this-side-project-hit-1-7m-users-in-4-days-2abbb0e4d4
+
+)
+
+
+
+-->
+
+
+
+(
+
+https://e9527aec.click.convertkit-mail4.com/mvuv67g5x6i5hq5eg8otmhr2l8o9lc3he800/7qh7h8h9l6x5r3sz/aHR0cHM6Ly93d3cuaW5kaWVoYWNrZXJzLmNvbT91dG1fY2FtcGFpZ249aWgtbmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9zb3VyY2U9aW5kaWUtaGFja2Vycy1lbWFpbHM=
+
+)
+
+
+
+PRESENTED BY
+
+
+
+(
+
+https://e9527aec.click.convertkit-mail4.com/mvuv67g5x6i5hq5eg8otmhr2l8o9lc3he800/owhkhqhw960d2xtv/aHR0c
+------------------------------------------------------------
+
+Total inquiries found: 19
