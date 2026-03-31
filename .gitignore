@@ -1,0 +1,75 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Test files
+tests/
+test_*.py
+*.test.py
+
+# Example files
+examples/
+*.xlsx
+*.xls
+*.html
+*.htm
+*.docx
+
+# Custom translations
+*_translations.json
+my_translations.json
+
+# Output files
+*_zh.xlsx
+*_en.xlsx
+*_ja.xlsx
+*_es.xlsx
+*_fr.xlsx
+*_de.xlsx
+*_ko.xlsx
+*_ru.xlsx
+*_pt.xlsx
+*_ar.xlsx
+*_hi.xlsx
+
+# Logs
+*.log
+
+# Environment variables
+.env
