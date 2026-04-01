@@ -1,0 +1,37 @@
+{
+  "products": [
+    {
+      "id": "product-001",
+      "name": "商品名称",
+      "url": "https://detail.1688.com/offer/XXXXXXXXX.html",
+      "target_price": 45.00,
+      "currency": "CNY",
+      "check_frequency": "hourly",
+      "notify_threshold": 5
+    }
+  ],
+  "settings": {
+    "browser": "openclaw",
+    "headed": false,
+    "proxy": null,
+    "output_format": "csv",
+    "check_interval_hours": 1,
+    "notify_threshold": 5,
+    "whatsapp_enabled": true,
+    "quiet_hours": {
+      "start": "23:00",
+      "end": "08:00"
+    }
+  },
+  "notifications": {
+    "whatsapp": {
+      "enabled": true,
+      "target": "+86XXXXXXXXXXX"
+    },
+    "feishu": {
+      "enabled": false,
+      "type": "webhook",
+      "webhook_url": "https://open.feishu.cn/open-apis/bot/v2/hook/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
+    }
+  }
+}
