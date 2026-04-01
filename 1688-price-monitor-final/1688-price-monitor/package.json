@@ -1,0 +1,16 @@
+{
+  "name": "1688-price-monitor",
+  "version": "1.0.0",
+  "description": "自动监控 1688 商品价格变化，生成价格趋势报告。",
+  "main": "fetch-price.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "ws": "^8.20.0"
+  }
+}
